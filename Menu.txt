@@ -1,0 +1,12 @@
+Ham Sandwich	
+13.00
+Caesar Salad	
+14.00
+Iced Chocolate
+7.00
+Iced Lemon Tea	
+7.00
+Orange Juice	
+8.00
+Mineral Water 
+1.00
